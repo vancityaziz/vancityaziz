@@ -27,12 +27,6 @@ Member of the UofT Supermileage team designing an urban concept vehicle for the 
 
 ---
 
-## Education & Focus
-* **UofT Chemical Engineering:** Minoring in AI Engineering and Engineering Business.
-* **Certified Safety:** HSE training in H2S safety, firefighting, and high-pressure equipment.
-
----
-
 ## Contact
 * **LinkedIn:** [vancityaziz](https://www.linkedin.com/in/vancityaziz/)
 * **Email:** vancity.aziz@gmail.com
